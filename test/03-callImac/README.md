@@ -1,6 +1,6 @@
 # 架設網站呼叫 imac 上的 ollama 服務
 
-從 [chatGpt.md](chatGPT.md) 對話中，我發現使用 ssh 反向代理應該會比較適合我的案例
+從 [chatGpt.md](./chatGpt.md) 對話中，我發現使用 ssh 反向代理應該會比較適合我的案例
 
 方法如下
 
